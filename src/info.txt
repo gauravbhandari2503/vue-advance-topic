@@ -1,0 +1,7 @@
+Atomic design is a methodology for creating design systems.
+
+Atoms: The basic building blocks of the design (e.g., buttons, inputs, labels).
+Molecules: Groups of atoms bonded together to form a more complex component (e.g., a form field with a label and input).
+Organisms: Groups of molecules joined together to form a distinct section of an interface (e.g., a navigation bar).
+Templates: Groups of organisms combined to create pages.
+Pages: Specific instances of templates that show what a UI looks like with real content.
